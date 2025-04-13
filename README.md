@@ -1,7 +1,7 @@
-# Hello! I'm Tarek (ﾉ◕ヮ◕)ﾉ\*:･ﾟ✧
+# Hello! I'm Tarek
 
 I'm a hobbyist programmer, with an interest in maybe one day working in the field.  
-My favorite language is C, followed closely by Rust. o((>ω< ))o
+My favorite language is C, followed closely by Rust.
 
 ## My Stats
 

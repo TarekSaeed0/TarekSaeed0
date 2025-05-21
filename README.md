@@ -1,7 +1,6 @@
 # Hello! I'm Tarek
 
-I'm a hobbyist programmer, with an interest in maybe one day working in the field.  
-My favorite language is C, followed closely by Rust.
+I'm a Computer and Systems Engineering student who is passionate about building projects with C/C++. I also enjoy writting programs in Rust. I'm always looking for opportunities to learn new skills, and improve my existing ones.
 
 ## My Stats
 

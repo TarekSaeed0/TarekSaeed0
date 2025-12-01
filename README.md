@@ -25,29 +25,5 @@ I'm a Computer and Systems Engineering student who is passionate about building 
 ## My Skills
 
 <div>
-  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="32" alt="neovim logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="32" alt="cmake logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=rust" height="32" alt="rust logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=bash" height="32" alt="bash logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=lua" height="32" alt="lua logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="sqlite logo"/>
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="32" alt="powershell logo" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,latex,rust,bash,py,lua,html,css,javascript,typescript,java,r,git,linux,neovim,gtk,react,angular,spring,sqlite&perline=10" />
 </div>

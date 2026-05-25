@@ -12,44 +12,20 @@ I'm a Computer and Systems Engineering student who is passionate about building 
   <tr  align="center" valign="top">
     <td colspan="2">
       <h3>Programming Languages</h3>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html,css&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html,css&theme=light">
-        <img alt="programming languages first part" src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html,css&theme=light">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javascript,typescript,lua,latex,bash&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=javascript,typescript,lua,latex,bash&theme=light">
-        <img alt="programming languages second part" src="https://skillicons.dev/icons?i=javascript,typescript,lua,latex,bash&theme=light">
-      </picture>
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html,css" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,lua,latex,bash" />
     </td>
   </tr>
   <tr align="center" valign="top">
     <td>
       <h3>Frameworks & Libraries</h3>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,spring&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,angular,spring&theme=light">
-        <img alt="frameworks and libraries first part" src="https://skillicons.dev/icons?i=react,angular,spring&theme=light">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind,gtk&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind,gtk&theme=light">
-        <img alt="frameworks and libraries second part" src="https://skillicons.dev/icons?i=tailwind,gtk&theme=light">
-      </picture>
+      <img src="https://skillicons.dev/icons?i=react,angular,spring" />
+      <img src="https://skillicons.dev/icons?i=tailwind,gtk" />
     </td>
     <td>
       <h3>Tools & Platforms</h3>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,neovim,vscode,git,github&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,neovim,vscode,git,github&theme=light">
-        <img alt="tools and platforms first part" src="https://skillicons.dev/icons?i=linux,neovim,vscode,git,github&theme=light">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,postman,maven,cmake&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,postman,maven,cmake&theme=light">
-        <img alt="tools and platforms second part" src="https://skillicons.dev/icons?i=docker,postman,maven,cmake&theme=light">
-      </picture>
+      <img src="https://skillicons.dev/icons?i=linux,neovim,vscode,git,github" />
+      <img src="https://skillicons.dev/icons?i=docker,postman,maven,cmake" />
     </td>
   </tr>
 </table>

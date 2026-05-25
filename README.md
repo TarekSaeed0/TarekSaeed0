@@ -1,8 +1,60 @@
-# Hello! I'm Tarek
+<div align="center">
 
-I'm a Computer and Systems Engineering student who is passionate about building projects with C/C++. I also enjoy writting programs in Rust. I'm always looking for opportunities to learn new skills, and improve my existing ones.
+# Hello, there! I'm Tarek
 
-## My Stats
+<p align="left">
+I'm a Computer and Systems Engineering student who is passionate about building projects. I enjoy writing code in systems programming languages like C and Rust. I'm always looking for opportunities to learn new skills, and improve my existing ones.
+</p>
+
+# My Skills
+
+<table width="100%">
+  <tr  align="center" valign="top">
+    <td colspan="2">
+      <h3>Programming Languages</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html,css&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html,css&theme=light">
+        <img alt="programming languages first part" src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html,css&theme=light">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javascript,typescript,lua,latex,bash&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=javascript,typescript,lua,latex,bash&theme=light">
+        <img alt="programming languages second part" src="https://skillicons.dev/icons?i=javascript,typescript,lua,latex,bash&theme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr align="center" valign="top">
+    <td>
+      <h3>Frameworks & Libraries</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,spring&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,angular,spring&theme=light">
+        <img alt="frameworks and libraries first part" src="https://skillicons.dev/icons?i=react,angular,spring&theme=light">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind,gtk&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind,gtk&theme=light">
+        <img alt="frameworks and libraries second part" src="https://skillicons.dev/icons?i=tailwind,gtk&theme=light">
+      </picture>
+    </td>
+    <td>
+      <h3>Tools & Platforms</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,neovim,vscode,git,github&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,neovim,vscode,git,github&theme=light">
+        <img alt="tools and platforms first part" src="https://skillicons.dev/icons?i=linux,neovim,vscode,git,github&theme=light">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,postman,maven,cmake&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,postman,maven,cmake&theme=light">
+        <img alt="tools and platforms second part" src="https://skillicons.dev/icons?i=docker,postman,maven,cmake&theme=light">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+# My Stats
 
 <div>
   <picture>
@@ -22,8 +74,4 @@ I'm a Computer and Systems Engineering student who is passionate about building 
   </picture>
 </div>
 
-## My Skills
-
-<div>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,latex,rust,bash,py,lua,html,css,javascript,typescript,java,r,git,linux,neovim,gtk,react,angular,spring,sqlite&perline=10" />
 </div>

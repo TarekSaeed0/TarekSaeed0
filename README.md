@@ -4,7 +4,7 @@
 
 **Computer and Systems Engineering student**
 
-<p align="center">
+<p align="left">
 I'm passionate about building projects and solving problems. I enjoy writing code in systems programming languages like C and Rust. I'm always looking for opportunities to learn new skills, and improve my existing ones.
 </p>
 

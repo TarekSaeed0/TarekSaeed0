@@ -1,26 +1,28 @@
 <div align="center">
 
-# Hello, there! I'm Tarek
+# Hello there, I'm Tarek
 
-<p align="left">
-I'm a Computer and Systems Engineering student who is passionate about building projects. I enjoy writing code in systems programming languages like C and Rust. I'm always looking for opportunities to learn new skills, and improve my existing ones.
+**Computer and Systems Engineering student**
+
+<p align="center">
+I'm passionate about building projects and solving problems. I enjoy writing code in systems programming languages like C and Rust. I'm always looking for opportunities to learn new skills, and improve my existing ones.
 </p>
 
-# My Skills
+# Skills
 
 <table width="100%">
   <tr  align="center" valign="top">
     <td colspan="2">
       <h3>Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html,css" />
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,lua,latex,bash" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,java,html" />
+      <img src="https://skillicons.dev/icons?i=css,javascript,typescript,lua,latex,bash" />
     </td>
   </tr>
   <tr align="center" valign="top">
     <td>
       <h3>Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=react,angular,spring" />
-      <img src="https://skillicons.dev/icons?i=tailwind,gtk" />
+      <img src="https://skillicons.dev/icons?i=react,angular,spring,django,flask" />
+      <img src="https://skillicons.dev/icons?i=fastapi,tauri,tailwind,gtk" />
     </td>
     <td>
       <h3>Tools & Platforms</h3>
@@ -30,7 +32,7 @@ I'm a Computer and Systems Engineering student who is passionate about building 
   </tr>
 </table>
 
-# My Stats
+# Stats
 
 <div>
   <picture>
